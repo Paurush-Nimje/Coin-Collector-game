@@ -46,7 +46,7 @@ Assets/
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Paurush-Nimje/Coin-Collector-game>
+git clone https://github.com/Paurush-Nimje/Coin-Collector-game
 ```
 
 2. Open the project in Unity Hub.
