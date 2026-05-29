@@ -27,7 +27,7 @@ The player must:
 3. Collect all available coins.
 4. Complete the level after gathering every collectible.
 
-## 📸 Preview
+## Preview
 
 <img width="2559" height="1360" alt="Screenshot 2026-05-29 203221" src="https://github.com/user-attachments/assets/16488196-4ab2-44b7-b0fe-cd0b5117d7f0" />
 
